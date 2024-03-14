@@ -196,10 +196,10 @@ sections:
       filters:
         folders:
           - publication
-        featured_only: false
+        featured_only: true
     design:
       columns: '2'
-      view: card
+      view: citation
   - block: collection
     content:
       title: Recent Publications
