@@ -1,5 +1,5 @@
 ---
-title: 'A Collaborative Framework for Virtual Globe Based 3D City Modeling'
+title: 'A GIS platform for automatic navigation into Georeferenced Scenes using GIS Scene Explorer (GIS-SE)'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
@@ -17,7 +17,7 @@ authors:
 #  - 'Equal contribution'
 
 date: '2010-07-01'
-doi: '10.1007/978-3-642-15690-8_9'
+doi: '10.1007/978-3-642-15690-8_6'
 
 # Schedule page publish date (NOT publication's date).
 publishDate: '2010-07-01'
@@ -31,18 +31,21 @@ publication_types: ['Book Chapter']
 publication: Studies in Computational Intelligence
 publication_short: In SCI, Volume 321
 
-abstract: Urban planning and city modeling have gradually shifted, during the last decade, from highly demanding, in terms of required skills and supporting information, to tasks now supported by efficient, widely available applications, thus becoming popular and largely accessible. There are many GIS systems nowadays that offer a freely navigable three dimensional environment. This evolution of GIS systems has, in turn, led to the requirement for and creation of virtual 3D models of the ground and buildings. Online communities have created and distributed over the Internet libraries of georeferenced 3D models. The public is encouraged to participate in the design of 3D scenes and many companies offer free tools to facilitate the design of 3D models, specialized in buildings. In this paper, we present a collaborative approach for the construction of a city model, and its implementation through a prototype environment, employing freely available design tools. The prototype system comprises a collaborative database, supported by a web-based interface. Users are able to create and upload their models to the common database over the web, thus constructing a realistic 3D city model in a given area in a collaborative manner.
+abstract: During the last decade the rapid evolution of GIS systems has led to enchanced accessibility and increased availability. The traditional content has been enriched by multimedia information and three dimensional models. Virtual copies of the real world have been created, widely known to the average user, yet the information retrieval and the efficient exploration of 3D large scale scenes are still pose serious problems. In this paper, a GIS platform for automatic navigation is presented, using a prototype application, entitled “GIS-Scene-Explorer” or GIS-SE, addressing these problems. Our platform is based on an existing GIS platform. Google Earth is used for this purpose. The prototype is a standalone application, adopting the Google Earth API to retrieve and visualize data. It takes advantage of both public remote database of the GIS system and a custom, collaborative database. Three dimensional models of buildings and multimedia data are stored to the collaborative database, operating under a server – client model architecture.
 
 # Summary. An optional shortened abstract.
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
-tags: [virtual globe,
-  GIS systems,
-  collaborative city modelling,
-  visualisation,
-  public participation,
-  scene modelling,
-  urban planning
+tags: [automatic navigation,
+virtual globe,
+GIS systems,
+scene exploration,
+virtual tour,
+scene understanding,
+visualisation,
+public participation,
+city modelling,
+urban planning
 ]
 
 # Display this page in the Featured widget?
@@ -82,7 +85,7 @@ url_pdf: './978-3-642-15690-8.pdf'
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
-# slides: example
+#slides: example
 ---
 
 {{% callout note %}}

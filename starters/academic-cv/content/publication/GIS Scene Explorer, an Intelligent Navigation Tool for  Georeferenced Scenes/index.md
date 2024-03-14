@@ -1,11 +1,11 @@
 ---
-title: 'A Collaborative Framework for Virtual Globe Based 3D City Modeling'
+title: 'GIS Scene Explorer, an Intelligent Navigation Tool for Georeferenced Scenes'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-  - Christos P. Yiakoumettis
+  - Christos Yiakoumettis
   - Georgios Bardis
   - Georgios Miaoulis
   - Dimitri Plemenos
@@ -16,33 +16,28 @@ authors:
 #  - 'Equal contribution'
 #  - 'Equal contribution'
 
-date: '2010-07-01'
-doi: '10.1007/978-3-642-15690-8_9'
+
+date: '2022-07-01'
+doi: '10.1007/978-3-642-15690-8_6'
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2010-07-01'
+publishDate: '2022-07-01'
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
 # Enter a publication type from the CSL standard.
-publication_types: ['Book Chapter']
+publication_types: ['Book-Paper']
 
 # Publication name and optional abbreviated publication name.
 publication: Studies in Computational Intelligence
 publication_short: In SCI, Volume 321
 
-abstract: Urban planning and city modeling have gradually shifted, during the last decade, from highly demanding, in terms of required skills and supporting information, to tasks now supported by efficient, widely available applications, thus becoming popular and largely accessible. There are many GIS systems nowadays that offer a freely navigable three dimensional environment. This evolution of GIS systems has, in turn, led to the requirement for and creation of virtual 3D models of the ground and buildings. Online communities have created and distributed over the Internet libraries of georeferenced 3D models. The public is encouraged to participate in the design of 3D scenes and many companies offer free tools to facilitate the design of 3D models, specialized in buildings. In this paper, we present a collaborative approach for the construction of a city model, and its implementation through a prototype environment, employing freely available design tools. The prototype system comprises a collaborative database, supported by a web-based interface. Users are able to create and upload their models to the common database over the web, thus constructing a realistic 3D city model in a given area in a collaborative manner.
+abstract: 
 
 # Summary. An optional shortened abstract.
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
-tags: [virtual globe,
-  GIS systems,
-  collaborative city modelling,
-  visualisation,
-  public participation,
-  scene modelling,
-  urban planning
+tags: [
 ]
 
 # Display this page in the Featured widget?
@@ -82,7 +77,7 @@ url_pdf: './978-3-642-15690-8.pdf'
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
-# slides: example
+#slides: example
 ---
 
 {{% callout note %}}

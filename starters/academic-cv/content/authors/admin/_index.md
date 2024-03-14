@@ -25,7 +25,7 @@ organizations:
     url: https://www.uniwa.gr/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include artificial intelligence applications, virtual tour and .
+bio: My research interests include Artificial Neural Networks, Genetic Algorithms and Decision Support Systems focusing on GIS platforms and Virtual Tours.
 
 # Interests to show in About widget
 interests:
@@ -103,12 +103,15 @@ social:
 #    label: Follow me on Twitter
 #    display:
 #      header: true
-  - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
-    icon_pack: fas
+  - icon: google-scholar # graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
+    icon_pack: ai
     link: https://scholar.google.com/citations?user=oEJh2RIAAAAJ&hl=el&oi=ao
 #  - icon: github
 #    icon_pack: fab
 #    link: https://github.com/gcushen
+  - icon: researchgate
+    icon_pack: fab
+    link: https://www.researchgate.net/profile/Christos-Yiakoumettis
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/christos-yiakoumettis/
@@ -122,9 +125,9 @@ social:
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-Christos Yiakoumettis: He holds an Ph.D degree in Informatics. His doctoral research was focused on Sematic Navigation of Large Scale Geo-Referenced 3D Scenes and Virtual Worlds, from University of Limoges, France (2012). Furthermore, he holds a MRes degree in Computer Science & Artificial Intelligence from the University of Sussex, Brighton, United Kingdom (2005). In addition, he holds a Diploma in Informatics and Computer Engineering from University of West Attica (2021) Greece and a Diploma in Informatics engineering from the Technological Educational Institute (T.E.I) of Athens, Greece (2004). His research interests are in knowledge management, intelligent systems, artificial intelligence, and augmented reality.
+Christos Yiakoumettis: He holds an Ph.D degree in Informatics. His doctoral research was focused on Semantic Navigation of Large Scale Geo-Referenced 3D Scenes and Virtual Worlds, from University of Limoges, France (2012). Furthermore, he holds a MRes degree in Computer Science & Artificial Intelligence from the University of Sussex, Brighton, United Kingdom (2005). In addition, he holds a Diploma in Informatics and Computer Engineering from University of West Attica (2021) Greece and a Diploma in Informatics Engineering from the Technological Educational Institute (T.E.I.) of Athens, Greece (2004). His research interests are in knowledge management, intelligent systems, artificial intelligence, and augmented reality.
 {style="text-align: justify;"}
 He had worked as a web developer and programmer in a few companies. He has worked as head developer in designing and developing several web-based projects and educational platforms. He had elaborated with a research team for the analysis and creation of collocation tables from data from Greek ancient texts. Moreover, he has worked as a developer on several National and European Research Projects.
 {style="text-align: justify;"}
-He currently works as a part-time instructor and researcher at T.E.I. of Athens. Results of his research activities have been published in international conference proceedings, international journals and in Springer book series of “studies in computational intelligence”.
+He currently works as a part-time instructor and researcher at University of West Attica. Results of his research activities have been published in international conference proceedings, international journals and in Springer book series of “studies in computational intelligence”.
 {style="text-align: justify;"}

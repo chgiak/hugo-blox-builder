@@ -1,48 +1,40 @@
 ---
-title: 'A Collaborative Framework for Virtual Globe Based 3D City Modeling'
+title: 'Speech Synthesis by Artificial Neural Networks'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-  - Christos P. Yiakoumettis
-  - Georgios Bardis
-  - Georgios Miaoulis
-  - Dimitri Plemenos
-  - Djamchid Ghazanfarpour
+  - Nikolaos Doulamis
 
 # Author notes (optional)
 # author_notes:
 #  - 'Equal contribution'
 #  - 'Equal contribution'
 
-date: '2010-07-01'
-doi: '10.1007/978-3-642-15690-8_9'
+
+date: '2007-07-07'
+# doi: '10.1109/WoWMoM.2013.6583497'
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2010-07-01'
+publishDate: '2007-07-07'
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
 # Enter a publication type from the CSL standard.
-publication_types: ['Book Chapter']
+publication_types: ['Conference-Paper']
 
 # Publication name and optional abbreviated publication name.
-publication: Studies in Computational Intelligence
-publication_short: In SCI, Volume 321
+publication: 2013 IEEE 14th International Symposium on "A World of Wireless, Mobile and Multimedia Networks"
+publication_short: In WoWMoM 2013
 
-abstract: Urban planning and city modeling have gradually shifted, during the last decade, from highly demanding, in terms of required skills and supporting information, to tasks now supported by efficient, widely available applications, thus becoming popular and largely accessible. There are many GIS systems nowadays that offer a freely navigable three dimensional environment. This evolution of GIS systems has, in turn, led to the requirement for and creation of virtual 3D models of the ground and buildings. Online communities have created and distributed over the Internet libraries of georeferenced 3D models. The public is encouraged to participate in the design of 3D scenes and many companies offer free tools to facilitate the design of 3D models, specialized in buildings. In this paper, we present a collaborative approach for the construction of a city model, and its implementation through a prototype environment, employing freely available design tools. The prototype system comprises a collaborative database, supported by a web-based interface. Users are able to create and upload their models to the common database over the web, thus constructing a realistic 3D city model in a given area in a collaborative manner.
+abstract: This research was accomplished during my studies at University of Sussex under supervision of Dr Si Wu. The whole project was focused on speech synthesis by artificial neural networks. The objective of the whole research is to implement an improvement of the speech synthesis process. A different approach on some speech synthesis procedures was introduced by neural networks. That approach was independent from any language. It was able to learn and follow the rules of the language but it wasn’t based on them. The main difference of this approach compared with the previous ones is that this one produces speech directly. The network will be able to produce directly speech instead of classifying sound segments. A multi layer perceptron with two layers will be designed and trained. The main input of the network was a phoneme paired with a stress value. The whole approach was presented in English language. A text to acoustic English dictionary was used for the transformation of the plain text to a sequence of phonemes. Unfortunately the performance of the network wasn’t the expected one. The network was trained but it was impossible to generalise its performance for bigger vocabulary.
 
 # Summary. An optional shortened abstract.
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
-tags: [virtual globe,
-  GIS systems,
-  collaborative city modelling,
-  visualisation,
-  public participation,
-  scene modelling,
-  urban planning
+tags: [speech synthesis,
+artificial neural networks
 ]
 
 # Display this page in the Featured widget?
@@ -53,7 +45,7 @@ featured: false
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: './978-3-642-15690-8.pdf'
+url_pdf: 'https://api.semanticscholar.org/CorpusID:14939068'
 #url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
 #url_dataset: 'https://github.com/HugoBlox/hugo-blox-builder'
 #url_poster: ''
@@ -82,7 +74,7 @@ url_pdf: './978-3-642-15690-8.pdf'
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
-# slides: example
+#slides: example
 ---
 
 {{% callout note %}}

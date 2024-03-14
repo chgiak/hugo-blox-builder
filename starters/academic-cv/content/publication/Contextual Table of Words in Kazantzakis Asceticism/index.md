@@ -1,48 +1,42 @@
 ---
-title: 'A Collaborative Framework for Virtual Globe Based 3D City Modeling'
+title: 'Contextual Table of Words in Kazantzakis Asceticism'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-  - Christos P. Yiakoumettis
-  - Georgios Bardis
-  - Georgios Miaoulis
-  - Dimitri Plemenos
-  - Djamchid Ghazanfarpour
+  - Minas Tsikritzis (Invited Speaker)
+  - Christos Yiakoumettis
+  - Andreas Manios
 
 # Author notes (optional)
 # author_notes:
 #  - 'Equal contribution'
 #  - 'Equal contribution'
 
-date: '2010-07-01'
-doi: '10.1007/978-3-642-15690-8_9'
+
+date: '2007-09-01'
+# doi: '10.1109/WoWMoM.2013.6583497'
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2010-07-01'
+publishDate: '2007-09-01'
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
 # Enter a publication type from the CSL standard.
-publication_types: ['Book Chapter']
+publication_types: ['Conference-Paper']
 
 # Publication name and optional abbreviated publication name.
-publication: Studies in Computational Intelligence
-publication_short: In SCI, Volume 321
+publication: Panhellenic Conference in Linguistic 2007 
+publication_short: In Panhellenic Conference in Linguistic 2007
 
-abstract: Urban planning and city modeling have gradually shifted, during the last decade, from highly demanding, in terms of required skills and supporting information, to tasks now supported by efficient, widely available applications, thus becoming popular and largely accessible. There are many GIS systems nowadays that offer a freely navigable three dimensional environment. This evolution of GIS systems has, in turn, led to the requirement for and creation of virtual 3D models of the ground and buildings. Online communities have created and distributed over the Internet libraries of georeferenced 3D models. The public is encouraged to participate in the design of 3D scenes and many companies offer free tools to facilitate the design of 3D models, specialized in buildings. In this paper, we present a collaborative approach for the construction of a city model, and its implementation through a prototype environment, employing freely available design tools. The prototype system comprises a collaborative database, supported by a web-based interface. Users are able to create and upload their models to the common database over the web, thus constructing a realistic 3D city model in a given area in a collaborative manner.
+# abstract: Google Maps and Google Earth were milestones in the evolution of Geographic Information Systems (GIS). A new era of 3D virtual geo-referenced worlds began. The need of exploration and creation personalized virtual tours is imperative. This work implements a best viewing algorithm for presenting a 3D model by considering both semantic and geometric features of the 3D model. The camera trajectory is estimated by respecting the user's preferences using a personalized entropy-based measurement. Moreover, the camera speed is adjusted properly based on the complexity of the projected view of the model.
 
 # Summary. An optional shortened abstract.
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
-tags: [virtual globe,
-  GIS systems,
-  collaborative city modelling,
-  visualisation,
-  public participation,
-  scene modelling,
-  urban planning
+tags: [contextual table of words,
+statistical analysis
 ]
 
 # Display this page in the Featured widget?
@@ -82,7 +76,7 @@ url_pdf: './978-3-642-15690-8.pdf'
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
-# slides: example
+#slides: example
 ---
 
 {{% callout note %}}
