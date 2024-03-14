@@ -5,7 +5,7 @@ title: 'Active learning of user’s preferences estimation towards a personalize
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-  - Christos Yiakoumettis
+  - admin
   - Nikolaos Doulamis
   - George Miaoulis
 
@@ -24,7 +24,7 @@ publishDate: '2013-04-12'
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
 # Enter a publication type from the CSL standard.
-publication_types: ['Journal-Paper']
+publication_types: ['journal-article']
 
 # Publication name and optional abbreviated publication name.
 publication: International Journal of Geoinformatica
@@ -51,7 +51,7 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: './978-3-642-15690-8.pdf'
+url_pdf: '/publication/active-learning-of-users-preferences-estimation-towards-a-personalized-3d--navigation-of-geo-referenced-scenes/journal-article.pdf'
 #url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
 #url_dataset: 'https://github.com/HugoBlox/hugo-blox-builder'
 #url_poster: ''

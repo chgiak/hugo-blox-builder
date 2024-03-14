@@ -5,7 +5,7 @@ title: 'A Collaborative Framework for Virtual Globe Based 3D City Modeling'
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-  - Christos P. Yiakoumettis
+  - admin
   - Georgios Bardis
   - Georgios Miaoulis
   - Dimitri Plemenos
@@ -25,7 +25,7 @@ publishDate: '2010-07-01'
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
 # Enter a publication type from the CSL standard.
-publication_types: ['Book-Chapter']
+publication_types: ['book-chapter']
 
 # Publication name and optional abbreviated publication name.
 publication: Studies in Computational Intelligence
@@ -53,7 +53,7 @@ featured: false
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: './978-3-642-15690-8.pdf'
+url_pdf: '/publication/a-collaborative-framework-for-virtual-globe-based-3d-city-modeling/book-chapter.pdf'
 #url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
 #url_dataset: 'https://github.com/HugoBlox/hugo-blox-builder'
 #url_poster: ''

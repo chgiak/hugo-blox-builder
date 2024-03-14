@@ -26,7 +26,7 @@ publishDate: '2022-05-13'
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
 # Enter a publication type from the CSL standard.
-publication_types: ['Journal-Paper']
+publication_types: ['journal-article']
 
 # Publication name and optional abbreviated publication name.
 publication: Journal of Sustainability
@@ -40,7 +40,8 @@ abstract: In the rising post COVID-19 period the world is different not only fro
 tags: [questionnaire survey,
 post COVID-19 era,
 Greek wine,
-consumer’s purchase and consumption of wine,
+consumer’s purchase,
+consumption of wine,
 Samos’ wine,
 quality wine
 ]
@@ -53,7 +54,7 @@ featured: false
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: './978-3-642-15690-8.pdf'
+url_pdf: '/publication/the-impact-of-covid-19-on-consumers-motives-in--purchasing-and-consuming-quality-greek-wine/journal-article.pdf'
 #url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
 #url_dataset: 'https://github.com/HugoBlox/hugo-blox-builder'
 #url_poster: ''

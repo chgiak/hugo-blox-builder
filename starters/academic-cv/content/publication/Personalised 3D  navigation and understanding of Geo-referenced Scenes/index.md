@@ -24,7 +24,7 @@ publishDate: '2013-08-22'
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
 # Enter a publication type from the CSL standard.
-publication_types: ['Conference-Paper']
+publication_types: ['conference-paper']
 
 # Publication name and optional abbreviated publication name.
 publication: 2013 IEEE 14th International Symposium on "A World of Wireless, Mobile and Multimedia Networks"
@@ -52,7 +52,7 @@ featured: false
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: './978-3-642-15690-8.pdf'
+url_pdf: ''
 #url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
 #url_dataset: 'https://github.com/HugoBlox/hugo-blox-builder'
 #url_poster: ''

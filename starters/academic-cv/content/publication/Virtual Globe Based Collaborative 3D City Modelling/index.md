@@ -5,7 +5,7 @@ title: 'Virtual globe based collaborative 3d city modelling'
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-  - Christos Yiakoumettis
+  - admin
   - Georgios Bardis
   - Georgios Miaoulis
   - Dimitri Plemenos
@@ -17,19 +17,19 @@ authors:
 #  - 'Equal contribution'
 
 
-date: '2007-07-07'
+date: '2010-07-07'
 # doi: '10.1007/978-3-642-15690-8_9'
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2007-07-01'
+publishDate: '2010-07-01'
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
 # Enter a publication type from the CSL standard.
-publication_types: ['Conference-Paper']
+publication_types: ['conference-paper']
 
 # Publication name and optional abbreviated publication name.
-publication: International Conference on Computer Graphics and Artificial Intelligence 3IA'2010,
+publication: International Conference on Computer Graphics and Artificial Intelligence 3IA'2010
 publication_short: In 3IA'2010
 
 abstract: 
@@ -48,7 +48,7 @@ featured: false
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: './978-3-642-15690-8.pdf'
+#url_pdf: './978-3-642-15690-8.pdf'
 #url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
 #url_dataset: 'https://github.com/HugoBlox/hugo-blox-builder'
 #url_poster: ''

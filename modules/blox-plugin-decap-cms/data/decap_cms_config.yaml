@@ -315,6 +315,7 @@ collections:
           - { label: "Uncategorized", value: "manuscript" }
           - { label: "Conference paper", value: "paper-conference" }
           - { label: "Journal article", value: "article-journal" }
+          - { label: "Book chapter", value: "book-chapter" }
           - { label: "Preprint / Working Paper", value: "paper" }
           - { label: "Report", value: "report" }
           - { label: "Book", value: "book" }

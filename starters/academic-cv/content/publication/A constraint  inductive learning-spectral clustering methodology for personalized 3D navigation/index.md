@@ -25,7 +25,7 @@ publishDate: '2013-07-01'
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
 # Enter a publication type from the CSL standard.
-publication_types: ['Conference-Paper']
+publication_types: ['conference-paper']
 
 # Publication name and optional abbreviated publication name.
 publication: Advances in Visual Computing
@@ -51,7 +51,7 @@ featured: false
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: './978-3-642-15690-8.pdf'
+url_pdf: '/publication/a-constraint--inductive-learning-spectral-clustering-methodology-for-personalized-3d-navigation/conference-paper.pdf'
 #url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
 #url_dataset: 'https://github.com/HugoBlox/hugo-blox-builder'
 #url_poster: ''

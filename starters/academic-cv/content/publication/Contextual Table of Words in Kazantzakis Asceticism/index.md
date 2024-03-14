@@ -6,7 +6,7 @@ title: 'Contextual Table of Words in Kazantzakis Asceticism'
 # and it will be replaced with their full name and linked to their profile.
 authors:
   - Minas Tsikritzis (Invited Speaker)
-  - Christos Yiakoumettis
+  - admin
   - Andreas Manios
 
 # Author notes (optional)
@@ -15,16 +15,16 @@ authors:
 #  - 'Equal contribution'
 
 
-date: '2007-09-01'
+date: '2007-09-21'
 # doi: '10.1109/WoWMoM.2013.6583497'
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2007-09-01'
+publishDate: '2007-09-21'
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
 # Enter a publication type from the CSL standard.
-publication_types: ['Conference-Paper']
+publication_types: ['conference-paper']
 
 # Publication name and optional abbreviated publication name.
 publication: Panhellenic Conference in Linguistic 2007 
@@ -47,7 +47,7 @@ featured: false
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: './978-3-642-15690-8.pdf'
+url_pdf: '/publication/contextual-table-of-words-in-kazantzakis-asceticism/conference-paper.pdf'
 #url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
 #url_dataset: 'https://github.com/HugoBlox/hugo-blox-builder'
 #url_poster: ''

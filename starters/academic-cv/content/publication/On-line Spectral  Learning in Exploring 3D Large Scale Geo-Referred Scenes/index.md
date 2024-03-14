@@ -6,7 +6,7 @@ title: 'On-line Spectral Learning in Exploring 3D Large Scale Geo-Referred Scene
 # and it will be replaced with their full name and linked to their profile.
 authors:
   - Nikolaos Doulamis
-  - Christos Yiakoumettis
+  - admin
   - George Miaoulis
 
 # Author notes (optional)
@@ -24,7 +24,7 @@ publishDate: '2012-07-01'
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
 # Enter a publication type from the CSL standard.
-publication_types: ['Conference-Paper']
+publication_types: ['journal-article']
 
 # Publication name and optional abbreviated publication name.
 publication: Euro-Mediterranean Conference 2012
@@ -49,7 +49,7 @@ featured: false
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: './978-3-642-15690-8.pdf'
+url_pdf: '/publication/on-line-spectral--learning-in-exploring-3d-large-scale-geo-referred-scenes/journal-article.pdf'
 #url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
 #url_dataset: 'https://github.com/HugoBlox/hugo-blox-builder'
 #url_poster: ''

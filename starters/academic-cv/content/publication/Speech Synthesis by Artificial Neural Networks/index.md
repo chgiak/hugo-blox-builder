@@ -5,7 +5,7 @@ title: 'Speech Synthesis by Artificial Neural Networks'
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-  - Nikolaos Doulamis
+  - admin
 
 # Author notes (optional)
 # author_notes:
@@ -13,20 +13,20 @@ authors:
 #  - 'Equal contribution'
 
 
-date: '2007-07-07'
+date: '2007-05-18'
 # doi: '10.1109/WoWMoM.2013.6583497'
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2007-07-07'
+publishDate: '2007-05-18'
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
 # Enter a publication type from the CSL standard.
-publication_types: ['Conference-Paper']
+publication_types: ['conference-paper']
 
 # Publication name and optional abbreviated publication name.
-publication: 2013 IEEE 14th International Symposium on "A World of Wireless, Mobile and Multimedia Networks"
-publication_short: In WoWMoM 2013
+publication: 11th Panhellenic Conference on Informatics 
+publication_short: In PCI 2007
 
 abstract: This research was accomplished during my studies at University of Sussex under supervision of Dr Si Wu. The whole project was focused on speech synthesis by artificial neural networks. The objective of the whole research is to implement an improvement of the speech synthesis process. A different approach on some speech synthesis procedures was introduced by neural networks. That approach was independent from any language. It was able to learn and follow the rules of the language but it wasn’t based on them. The main difference of this approach compared with the previous ones is that this one produces speech directly. The network will be able to produce directly speech instead of classifying sound segments. A multi layer perceptron with two layers will be designed and trained. The main input of the network was a phoneme paired with a stress value. The whole approach was presented in English language. A text to acoustic English dictionary was used for the transformation of the plain text to a sequence of phonemes. Unfortunately the performance of the network wasn’t the expected one. The network was trained but it was impossible to generalise its performance for bigger vocabulary.
 
@@ -45,7 +45,7 @@ featured: false
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'https://api.semanticscholar.org/CorpusID:14939068'
+url_pdf: '/publication/speech-synthesis-by-artificial-neural-networks/journal-article.pdf'
 #url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
 #url_dataset: 'https://github.com/HugoBlox/hugo-blox-builder'
 #url_poster: ''
